@@ -33,7 +33,7 @@
   "dependencies": {
     "gulp-util": "^3.0.4",
     "postcss": "^4.1.11",
-    "postcss-australian-stylesheets": "0.0.5",
+    "postcss-australian-stylesheets": "0.0.6",
     "through2": "^0.6.5",
     "vinyl-sourcemaps-apply": "^0.1.4"
   },
