@@ -1,0 +1,44 @@
+{
+  "name": "gulp-australian-stylesheets",
+  "version": "0.0.0",
+  "description": "Compile Australian CSS",
+  "license": "MIT",
+  "repository": "stevemao/gulp-australian-stylesheets",
+  "author": {
+    "name": "Steve Mao",
+    "email": "maochenyan@gmail.com",
+    "url": "https://github.com/stevemao"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "australian-stylesheets",
+    "australia",
+    "postcss",
+    "css",
+    "australian",
+    "oz",
+    "stylesheet",
+    "preprocess",
+    "postcss-runner"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "postcss": "^4.1.11",
+    "postcss-australian-stylesheets": "0.0.5",
+    "through2": "^0.6.5",
+    "vinyl-sourcemaps-apply": "^0.1.4"
+  },
+  "devDependencies": {
+    "gulp-sourcemaps": "^1.5.2",
+    "mocha": "*"
+  }
+}
